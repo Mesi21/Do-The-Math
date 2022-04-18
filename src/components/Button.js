@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types';
 import '../styles/Button.css';
 
-function Button({ btnName, wide, color }) {
+const Button = ({ btnName, wide, color }) => {
   const color2 = 'lightGray';
   const borderCol = '#A0A0A0';
 
@@ -14,7 +14,7 @@ function Button({ btnName, wide, color }) {
   };
 
   return (<button type="button" className="btn" style={btnStyle}>{btnName}</button>);
-}
+};
 
 Button.propTypes = {
   btnName: PropTypes.string.isRequired,
