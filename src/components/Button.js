@@ -3,16 +3,17 @@ import '../styles/Button.css';
 
 function Button({ btnName, wide, color }) {
   const color2 = 'lightGray';
+  const borderCol = '#A0A0A0';
 
   const btnStyle = {
     width: wide ? '50%' : '25%',
-    backgroundColor: (btnName === 'X'
+    backgroundColor: (btnName === 'x'
       || btnName === '÷' || btnName === '-' || btnName === '+'
       || btnName === '=') ? color : color2,
-    border: '1px solid #A0A0A0',
+    border: (btnName === '0') ? `1px solid ${borderCol}` : `1px solid ${borderCol}`,
   };
 
-  return (<button type="button" style={btnStyle}>{btnName}</button>);
+  return (<button type="button" className="btn" style={btnStyle}>{btnName}</button>);
 }
 
 Button.propTypes = {
@@ -23,7 +24,7 @@ Button.propTypes = {
 
 Button.defaultProps = {
   wide: false,
-  color: '#FF7F50',
+  color: '#FFAA33',
 };
 
 export default Button;
