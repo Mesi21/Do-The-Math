@@ -12,7 +12,7 @@ It was created with [Create-React-App](https://github.com/facebook/create-react-
 
 ## Screenshot
 
-![screenshot](.jpg)
+![screenshot](/src/styles/screenshot1.png)
 
 ## Live version
 
@@ -21,8 +21,8 @@ For the live version of this project visit the following [Netlify](https:// .app
 ## Get started
 
 ```bash
-   git clone git@github.com:Mesi21/ .git
-   cd into the folder by typing: cd 
+   git clone git@github.com:Mesi21/Do-The-Math.git
+   cd into the folder by typing: cd Do-The-Math
 ```
 
  :heavy_plus_sign: add your contribution if you'd like
@@ -41,7 +41,7 @@ For the live version of this project visit the following [Netlify](https:// .app
 
 #### :bust_in_silhouette: Molnar Emese 
   - [Mesi21](https://github.com/Mesi21)
-  - [LinkedIn](https://www.linkedin.com/in/emesemesimolnar/).  
+  - [LinkedIn](https://www.linkedin.com/in/emesemesimolnar/)
   - [Twitter](https://twitter.com/buksimesi21) 
 
 ## Future functionalities:
