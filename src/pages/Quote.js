@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Quote = () => (
-  <h2 className="Quote">
+  <h2 className="quote">
     &quot;Mathematics is not about numbers, equations, computations
     <br />
     or algorithms:
