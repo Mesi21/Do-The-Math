@@ -16,7 +16,7 @@ It was created with [Create-React-App](https://github.com/facebook/create-react-
 
 ## Live version
 
-For the live version of this project visit the following [Netlify](https://velvety-heliotrope-d0b774..app/) and [Heroku](https://do-the-math-18.herokuapp.com/) links.
+For the live version of this project visit the following [Netlify](https://velvety-heliotrope-d0b774.app/) and [Heroku](https://do-the-math-18.herokuapp.com/) links.
 
 ## Get started
 
