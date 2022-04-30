@@ -6,7 +6,7 @@
 
 This project is about making a simple calculator app using React.
 It can solve basic operations with 2 numbers. 
-It was created with [Create-React-App](https://github.com/facebook/create-react-app)
+It was created with [Create-React-App](https://github.com/facebook/create-react-app).
 
 ---
 
