@@ -1,5 +1,3 @@
-# Soon to be updated....
-
 # Math Magicians
 
 <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
@@ -40,7 +38,7 @@ For the live version of this project visit the following [Netlify](https://velve
 ## Author
 
 #### :bust_in_silhouette: Molnar Emese 
-  - [Mesi21](https://github.com/Mesi21)
+  - [Github](https://github.com/Mesi21)
   - [LinkedIn](https://www.linkedin.com/in/emesemesimolnar/)
   - [Twitter](https://twitter.com/buksimesi21) 
 
